@@ -1,17 +1,17 @@
 
-function App() {
+function Abdul() {
   return (
 <>
 
 
 
   <header className="hide-when-mobile">
-    <h1>Courses 4 Arab</h1>
+    <h1>Life House</h1>
     <ul className="flex">
       <li className="main-list">
         <a className="main-link" href="#">
           
-          HTML
+          Hotels
         </a>
         <ul className="sub-ul">
           <li>
@@ -135,13 +135,11 @@ function App() {
     </div>
   </header>
   <main>
-    Respossive Drop-down <br />
-    Menu Bar <br />
-    HTML &amp; CSS only
+  Abdul Page
   </main>
   <footer>
-    Designed and developed by Courses4Arab.com
-    <span>🧡</span>
+    Designed and developed by Abdul Hegazy
+    <span> 🧡</span>
   </footer>
 </>
 
@@ -150,4 +148,4 @@ function App() {
   );
 }
 
-export default App;
+export default Abdul;
