@@ -1,5 +1,5 @@
 
-function App() {
+function Lifehouse() {
   return (
 <>
 
@@ -150,4 +150,4 @@ function App() {
   );
 }
 
-export default App;
+export default Lifehouse;
